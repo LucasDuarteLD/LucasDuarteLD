@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/LucasDuarteLD/LucasDuarteLD/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://avatars.githubusercontent.com/u/149916879?s=400&u=73b48314ec3e8b5bb136680070f17393dd6ff8ff&v=4" />
 &nbsp;&nbsp;&nbsp;
 
 
