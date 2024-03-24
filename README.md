@@ -1,9 +1,9 @@
 <!--
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://avatars.githubusercontent.com/u/149916879?s=400&u=73b48314ec3e8b5bb136680070f17393dd6ff8ff&v=4" />
-&nbsp;&nbsp;&nbsp; -->
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://avatars.githubusercontent.com/u/149916879?s=400&u=73b48314ec3e8b5bb136680070f17393dd6ff8ff&v=4" /> -->
+&nbsp;&nbsp;&nbsp;
 
 
-<p align="center"I'm a passionate systems analyst driven by complex challenges and finding technological solutions. I balance my technical skills with leadership experience, efficiently coordinating projects and teams. My focus lies in analyzing and continuously improving software, integrating Agile development principles at every stage of the process.</p>&nbsp;
+<p align="center"> I'm a passionate systems analyst driven by complex challenges and finding technological solutions. I balance my technical skills with leadership experience, efficiently coordinating projects and teams. My focus lies in analyzing and continuously improving software, integrating Agile development principles at every stage of the process.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LucasDuarteLD&theme=radical&mode=weekly" />
